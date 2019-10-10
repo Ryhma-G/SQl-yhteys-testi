@@ -1,0 +1,10 @@
+C:\Users\tuoma\source\repos\testi2\testi2\bin\Debug\testi2.exe.config
+C:\Users\tuoma\source\repos\testi2\testi2\bin\Debug\testi2.exe
+C:\Users\tuoma\source\repos\testi2\testi2\bin\Debug\testi2.pdb
+C:\Users\tuoma\source\repos\testi2\testi2\obj\Debug\testi2.csprojResolveAssemblyReference.cache
+C:\Users\tuoma\source\repos\testi2\testi2\obj\Debug\testi2.Form1.resources
+C:\Users\tuoma\source\repos\testi2\testi2\obj\Debug\testi2.Properties.Resources.resources
+C:\Users\tuoma\source\repos\testi2\testi2\obj\Debug\testi2.csproj.GenerateResource.cache
+C:\Users\tuoma\source\repos\testi2\testi2\obj\Debug\testi2.csproj.CoreCompileInputs.cache
+C:\Users\tuoma\source\repos\testi2\testi2\obj\Debug\testi2.exe
+C:\Users\tuoma\source\repos\testi2\testi2\obj\Debug\testi2.pdb
